@@ -1,0 +1,13 @@
+/*
+ * File: settings.gradle
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License
+ * as published by the Free Software Foundation; version 3
+ * of the License.
+ *
+ * Project: Yaminabe Core
+ * Author: FGO
+ * Copyright (c) 2017. FGO Production. All right reserved
+ */
+
+rootProject.name = 'Yaminabe Core'
